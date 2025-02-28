@@ -9,7 +9,7 @@
 <!--#
 Ingresar nombres integrantes
 -->
-* .
+* Angela Sofia Rosas Garces
 * .
 
 ## Introducción
